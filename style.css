@@ -6,7 +6,8 @@ h1{
     line-height: 150%;
     color: #333333;
     background: #efeee7;
+    text-align: center;
 }
 #h1 {
-    overflow: auto;
+    
 }
