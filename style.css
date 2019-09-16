@@ -1,0 +1,44 @@
+h1{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    line-height: 150%;
+    color: #333333;
+    background: #efeee7;
+    text-align: center;
+}
+nav {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    line-height: 150%;
+    color: black;
+    background: yellow;
+    text-align: center;
+}
+
+section {
+    float: left;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    line-height: 150%;
+    color: #333333;
+    background: #efeee7;
+    text-align: center;
+}
+
+aside {
+    float: left;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    line-height: 150%;
+    color: #333333;
+    background: #efeee7;
+    text-align: center;
+}
